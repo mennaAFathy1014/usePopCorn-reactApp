@@ -2,7 +2,7 @@
 
 this is app is all about movies
 you can :
-\_search for movies
-\_display movies overview
-\_rate movies
-\_add to watched list
+-search for movies
+-display movies overview
+-rate movies
+-add to watched list
